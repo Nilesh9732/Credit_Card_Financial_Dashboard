@@ -1,7 +1,17 @@
-# Credit_Card_Financial_Dashboard
-**Project Objective**: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+# Credit Card Financial Dashboard
+## Project Objective
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-**Project Insights- Week 53 (31st Dec)**:
+## Roadmap
+- **Data Import in Power BI Desktop**: Imported data into Power BI Desktop from **SQL database** for analysis and reporting.
+- **Data Transformation and Cleaning**: Performed data transformation and cleaning to ensure accuracy and consistency.
+- **Establishing Table Relationships**: Set up relationships between tables to integrate and analyze data effectively.
+- **Creating Measures with DAX**: Utilized DAX (Data Analysis Expressions) to develop important measures for in-depth analysis.
+- **Visualization Development**: Created visualizations using Power BI’s tools to represent data insights clearly.
+- **Report Preparation**: Compiled and formatted the Power BI report for presentation and review.
+- **Project Deployment**: Finalized and published the project, making it live and accessible for users.
+
+## Project Insights- Week 53 (31st Dec)
 
 Week over Week change: 
 
